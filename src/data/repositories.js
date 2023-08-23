@@ -1,0 +1,35 @@
+export default [
+    {
+        id: 'midudev.midu.dev',
+        fullName: 'midudev/miu.dev',
+        description: 'Blog de noticias sobre desarrollo',
+        lenguage: 'HTML',
+        forksCount: 3123,
+        stargazersCount: 52869,
+        ratingAvarage: 0,
+        reviewCount: 0,
+        ownerAvatarUrl: 'https://avatars.githubusercontent.com/u/1561955?v=4',
+    },
+    {
+        id: 'jaredpalmer.formik',
+        fullName: 'jaredpalmer/formik',
+        description: 'Build forms in React, without the tears',
+        lenguage: 'TypeScript',
+        forksCount: 1589,
+        stargazersCount: 21553,
+        ratingAvarage:88,
+        reviewCount: 4,
+        ownerAvatarUrl: 'https://avatars2.githubusercontent.com/u/4060187?v=4',
+    },
+    {
+        id: 'rails.rails',
+        fullName: 'rails/rails',
+        description: 'Ruby on Rails',
+        lenguage: 'Ruby',
+        forksCount: 18349,
+        stargazersCount: 45377,
+        ratingAvarage: 100,
+        reviewCount: 2,
+        ownerAvatarUrl: 'https://avatars3.githubusercontent.com/u/13142323?v=4',
+    }
+]
